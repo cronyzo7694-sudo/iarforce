@@ -1,0 +1,345 @@
+# AGNIVEER VAYU GROUP XY — COMPLETE ENGLISH PAPER-FIGHT NOTES — DEEP RESEARCH FOR 90+ PERCENTILE (HONEST, NO FALSE CLAIMS)
+
+Bhai dekh, ye English notes Physics aur Maths wale jaise hi deep research se banaye hain — har ek English PYQ (~147 Qs, 7 papers) ko padh ke, cluster karke, mechanism nikal ke. Target 90+ percentile ka matlab Tier S ko 90%+ accuracy se karna. Main koi jhutha bada nahi karunga.
+
+## 1. SUBJECT EXAMINER BLUEPRINT — ENGLISH
+- Dataset: 7 papers, English raw Qs: 16 Nov 2024 (20 Qs Q51-70), 22 Mar 2025 (27 Qs Q51-77), 25 Sep 2025 02-2026 (20 Qs), 26 Sep 2025 (20 Qs), 27 Sep 2025 (20 Qs), 28 Sep 2025 (20 Qs), 30 Mar 2026 Official (20 Qs) = ~147 raw
+- Independent Mechanisms: ~120-130
+- Strongest [OBSERVED]: Grammar Error (15 clusters, 7/7, 3-4Q), Preposition/Article Fill Blank (18 clusters, 7/7, 3-4Q), Voice (9 clusters, 6/7, 2Q), Speech (9 clusters, 6/7, 2Q), Spelling (10 clusters, 6/7, 1-2Q), Synonym/Antonym (12 clusters, 6/7), Comprehension Passage (6 passages, 1 per paper 3-4Q), Rearrangement (8 clusters, 5/7), One Word (6 clusters), Idioms (4 clusters)
+- Examiner Behaviour [STRONG INFERENCE]: Direct rule-based 70%, vocab moderate 20%, passage inference 10%. Traps: Each has vs have, Since/For, Absolutely best than, deal in vs of, an honest, Voice tense, Speech backshift tomorrow->next day, Spelling double letters.
+- Confidence: HIGH for Grammar Error, Preposition Article, Voice Speech, Spelling. MEDIUM for Synonym Antonym One Word Rearrangement Comprehension. LOW for Idioms (4 raw).
+
+## 2. DATA / PYQ COVERAGE
+| Paper | English Qs | Duplicates | Corrupted | Notes |
+|-------|------------|------------|-----------|-------|
+| 16 Nov 2024 | 20 Q51-70 | None | Clean | Birds & Mammals passage Q68-70 |
+| 22 Mar 2025 | 27 Q51-77 | None | Clean | Almond passage Q67-70 |
+| 25 Sep 2025 02-2026 | 20 Q51-70 | None | Clean | Mother Tongue passage Q66-70 |
+| 26 Sep 2025 | 20 Q51-70 | None | Clean | RSV passage Q68-70 |
+| 27 Sep 2025 | 20 Q51-70 | None | Clean | Vivekananda passage Q61-64 |
+| 28 Sep 2025 | 20 Q51-70 | None | Clean | Grammar Antonym Idiom |
+| 30 Mar 2026 Official | 20 Q1-20 English | None | Cleanest | Microplastics passage Q17-20 |
+Total Raw ~147, Exact Repeat 0 exact same Q, Near Repeat ~15 clusters (Each have, Since five years, Absolutely best, Deals in, Discussion about, Voice Humayun built, Speech I can fix tomorrow, Spelling vacuum grateful), Independent ~120-130, Corrupted Minimal vs Physics/Maths – English cleanest, Answer Leakage None.
+
+## 3. CHAPTER → MECHANISM MAP
+| English Area | Raw | Independent | ROI | Confidence | Papers |
+|---|---:|---:|---|---:|---|
+| Grammar Error Detection | 25 | 20 | S MUST | HIGH | 7/7 |
+| Preposition Determiner Article Fill Blank Pronoun Tense | 30 | 25 | S MUST | HIGH | 7/7 |
+| Voice Active/Passive | 12 | 10 | S MUST | HIGH | 6/7 |
+| Speech Direct/Indirect | 12 | 10 | S MUST | HIGH | 6/7 |
+| Spelling | 15 | 12 | S MUST | HIGH | 6/7 |
+| Synonym/Antonym | 18 | 15 | A HIGH | MED | 6/7 |
+| One Word Substitution | 10 | 8 | A HIGH | MED | 5/7 |
+| Idioms | 6 | 4 | B MED | LOW | 4/7 |
+| Comprehension Passage | 20 | 6 passages | S MUST | HIGH | 6/7 |
+| Sentence Rearrangement Jumbled | 12 | 10 | A HIGH | MED | 5/7 |
+
+## 4. HIGH-ROI MECHANISMS
+Tier S MUST MASTER (6-7/7 papers, 1-3Q per paper, 10-20 sec): Grammar Error Detection Subject-verb Tense Since/For Comparative Article Preposition Pronoun Conjunction 20 clusters 7 papers 3-4Q fastest; Preposition Determiner Article Fill Blank deal in discussion about an honest a/the She vs Her had baked quiet/quiet etc 25 clusters 3-4Q; Voice Active/Passive Tense conversion by+agent being expected 10 clusters 2Q; Speech Direct/Indirect Tense backshift pronoun time tomorrow->next day this week->that week wish says/tells present no backshift 10 clusters 2Q; Spelling double letters grateful 1l vacuum 2u unnecessary 2s1c practice quarantine ambiguous 12 clusters 1-2Q; Comprehension Passage 1 per paper 3-4Q Factual Inference Vocab True/False 6 passages.
+Tier A HIGH ROI (5-6/7 papers): Synonym/Antonym moderate vocab invincible unbeatable fruitful productive grandeur magnificence victory triumph oppressive humane judicious sensible loathsome delightful sacred profane glorious modest distinct vague animosity benevolence desperate hopeful 15 clusters 1-2Q; One Word Periscope wager boutique hedonist punctilious turbulence barracks optimist curious edible 8 clusters 1Q; Rearrangement Govt India Act RQSP Letter MTNL II,I,IV,III Delegates SRPQ Russian QRSP Rain RSPQ 10 clusters 1-2Q
+Tier B MEDIUM ROI (4/7): Idioms Once in blue moon occasionally Put cart before horse wrong order Water under bridge past not significant Bite dust die 4 clusters 1Q easy low frequency
+
+## 5. MEDIUM-ROI
+Synonym/Antonym 40 words PYQ list, One Word 20 words PYQ list, Rearrangement P Q R S logical chronological, Idioms 4 idioms PYQ list
+
+## 6. LOW-ROI / TIME-CRITICAL
+LOW ROI: Idioms only 4 raw 4/7 papers B easy low frequency, Very hard vocab beyond PYQ list INSUFFICIENT EVIDENCE C, Rare one-word beyond PYQ list C
+SKIP IF TIME-CRITICAL: Generic grammar textbook beyond PYQ error patterns not in PYQs SKIP INSUFFICIENT EVIDENCE, Unlimited vocab beyond 40 PYQ words SKIP focus PYQ list for 90+, Complex comprehension inference beyond factual SKIP attempt factual first, Unlimited idioms beyond 4 PYQs SKIP low ROI
+
+## 7. COMPLETE MECHANISM NOTES — ENGLISH DEEP
+
+### MECHANISM 1 — GRAMMAR ERROR DETECTION
+**Core Idea:** Har paper 3-4 error spotting. Signal 'Identify segment that contains grammatical error' 4 parts + No error.
+**Minimum Rule:** Each/Every+singular has (Each students has->has), Since point For duration (since five years->for five years), Absolutely cannot have comparative (absolutely best than->better than), Tense Before+past perfect had baked before mother arrived, Article an+vowel sound an honest an hour, Preposition deal in goods deal with person discussion about topic, Pronoun She subject not Her, Tense consistency analyse before submitted->analysed, Conjunction No sooner...than No sooner he was->No sooner was he inversion, did not+base go not went, for create->to create/for creating, has being->has been, girls is->are plural, terribly performed->performed terribly adverb after verb, I love the dogs generic->dogs no the, will be broadcast vs will broadcast active, will be finishing vs will have finished by the time future perfect.
+**Why Works:** Grammar fixed.
+**PYQ Evidence:** 16 Nov Q56 No sooner he was->was he [OBSERVED], Q57 will have participate->participated [OBSERVED], Q61 deals in [OBSERVED], Q62 discussion about [OBSERVED], 22 Mar Q53 died at the night->in? [OBSERVED], Q56 demand lot->a lot [OBSERVED], 25 Sep Q51 I love the dogs->dogs [OBSERVED], Q52 you will be broadcast->will broadcast [OBSERVED], Q70 did not went->go [OBSERVED], 26 Sep Q60 since five years->for [OBSERVED], 27 Sep Q51 consequency->consequently [OBSERVED], Q52 fill out for->fill in for [OBSERVED], Q53 girls is->are [OBSERVED], Q54 terribly performed->performed terribly [OBSERVED], 28 Sep Q51 has being applying->has been [OBSERVED], Q52 absolutely best than->better than [OBSERVED], Q53 I reaches->reach [OBSERVED], Q54 for create->to create [OBSERVED], 30 Mar Q2 Each have->has [OBSERVED], Q8 goes->go subjunctive [OBSERVED], Q13 analyse->analysed [OBSERVED], Q15 will be finishing->will have finished [OBSERVED]
+**Gives:** Sentence divided 4 parts or blank.
+**Asks:** Which part contains error? No error?
+**Pehchaan:** IF YOU SEE Each have, No sooner he was, will have participate, did not went, since five years, absolutely best than, I reaches, for create, has being, girls is, terribly performed, I love the dogs, will be broadcast, analyse before submitted -> THINK Subject-verb Inversion Future perfect Past after did Since/For Comparative Subject-verb Infinitive has been plural verb Adverb position Article generic Voice active Tense consistency
+**10-Second:** Each/Every has, No sooner was he, will have+V3 participated, did not+base go, since duration->for, absolutely best than->better than, I reach, for create->to create, has been, girls are, performed terribly, I love dogs no the, will broadcast active, analysed past, will have finished by the time, eliminate No error if found.
+**Trap:** No error option doubt, Since vs For, Each has vs have, Absolutely best than looks okay but best no than, I reaches s/es wrong, For create for+V-ing or to+base, Has being being vs been, Girls is plural are, Terribly before verb vs after, The dogs generic vs specific, Will be broadcast vs will broadcast passive vs active, Analyse vs analysed tense, Will be finishing vs will have finished future continuous vs perfect by the time
+**Counter:** Each has 2 sec, No sooner was he 2 sec, did not go base 2 sec, since number years->for, absolutely best than check than, I/You base, for verb to verb, has been, plural are, adverb after verb, generic no the, active will broadcast, past before past analysed, By the time will have finished
+**Variations:** [PYQ-DERIVED] Each boys have->has, Since two hours->For two hours, did not goes->go, Absolutely better than->better than, I has->have, For eat->to eat, Has being doing->has been doing, children is->are, quickly ran vs ran quickly vs terribly performed vs performed terribly second correct, I love music generic, news will be broadcast vs They will broadcast news, goes before came tense mismatch, By the time he comes I will finish->will have finished
+**NOT NEEDED:** Detailed subjunctive beyond suggested that she go, inversion beyond No sooner, all phrasal verbs beyond fill in for, all comparative beyond absolutely best
+
+### MECHANISM 2 — PREPOSITION DETERMINER ARTICLE FILL BLANK PRONOUN TENSE
+**Core Idea:** Fill blank preposition article determiner pronoun tense quite/quiet etc.
+**Minimum Rule:** deal in goods deal with person, discussion about topic with person, frugal budget careful money vs miser negative vs lethargic vs gloomy, sheep plural sheep, had baked past perfect before past vs baked vs have baked, an hour an honest vowel sound h silent the work specific, She subject pronoun not Her/Him/Me, beyond other side through across inside, quiet silent quite fairly quit leave quilt bed cover, Many countable Many not Much uncountable, had known third conditional had+past participle known not knew, court of inquiry, walked when child past simple habitual, hesitate to apologize to+base, ran past run not runned
+**Why Works:** Fixed preposition article vowel sound tense sequence.
+**PYQ Evidence:** 16 Nov Q61 deals in [OBSERVED], Q62 discussion about [OBSERVED], Q63 presented to show [OBSERVED], Q55 sheep Sheep [OBSERVED], 22 Mar Q58 had baked [OBSERVED], Q62 frugal [OBSERVED], Q64 Destruction [OBSERVED], 26 Sep Q55 Many [OBSERVED], Q57 had known [OBSERVED], Q58 DBCA he kept documents in his bag [OBSERVED], 27 Sep Q57 were [OBSERVED], Q58 has risen present perfect [OBSERVED], Q67 Satisfy [OBSERVED], Q70 An honest [OBSERVED], 30 Mar Q5 quiet [OBSERVED], Q9 an hour the work [OBSERVED], Q11 She [OBSERVED], Q14 beyond [OBSERVED]
+**Gives:** Sentence blank 4 options
+**Asks:** Fill blank correct preposition article pronoun tense vocab
+**Pehchaan:** IF YOU SEE deals ___ cosmetic goods, discussion ___ project, budget being ___, plural sheep, I ___ cake before mother arrived, All I need ___ hour, ___ is reading book, My mother ___ honest woman, farm just through bridge, remain ___ during examination, Many ___ students, I would have left if I ___ you were not coming -> THINK deal in discussion about frugal sheep plural sheep past perfect had baked an hour vowel sound She subject an honest beyond quiet Many countable had known third conditional
+**10-Second:** deal in goods, discussion about, frugal positive careful, sheep same, before past perfect had baked, an hour the work, She subject, an honest, beyond other side, quiet silent, Many countable, had known
+**Trap:** deal in vs with vs of vs on trap with person, discussion beneath vs with vs about vs in trap with, frugal vs miser miser negative, sheep vs sheeps, had baked vs baked before trap baked simple past but before past perfect needed, an hour vs a hour trap a hour h silent so an, Him is reading vs She trap Him object pronoun as subject, an honest vs a honest trap a honest, through vs beyond trap through, quiet vs quite vs quit vs quilt trap quite fairly, Many vs Much Many countable Much uncountable, had known vs know vs had knew vs knew trap had knew knew past known participle
+**Counter:** deal in goods yaad, discussion about yaad, frugal positive miser negative, sheep same, before past perfect had baked, an vowel sound hour honest, Subject pronoun She, beyond other side, quiet silent, Many countable, Third conditional had known
+**Variations:** [PYQ-DERIVED] deal with him person, discussion with him about project, an umbrella a university u vowel but y sound consonant, He is reading vs Him is reading, an hour an heir an honest, remain quiet vs quite good, Many books Much water, If I had known I would have come
+**NOT NEEDED:** All prepositions list only those PYQs, All determiners only Many Much, All tense rules only past perfect before past third conditional had known present perfect has risen
+
+### MECHANISM 3 — VOICE ACTIVE/PASSIVE
+**Core Idea:** Active se passive object subject + by + agent + be verb + V3 + being for continuous have been for perfect.
+**Minimum Rule:** Present simple He writes book->Book is written, Past simple Humayun built city->City was built by Humayun, Present perfect Roads have been dug up->Authorities have dug up roads active have dug, Future Parents will send him->He will be sent by parents, Modal Rover would not swallow pill->Pill would not be swallowed by Rover, Past continuous Magazine was expecting authors->Authors were being expected, Why was letter written by Rupesh?->Why did Rupesh write letter? past simple passive was written->did write, Roads have been dug up again by authorities->Authorities have dug up roads again, Issue has been resolved by team->Team has resolved issue
+**Why Works:** Voice transformation rules.
+**PYQ Evidence:** 16 Nov Q66 Humayun built->was built [OBSERVED], Q67 Why was letter written->Why did Rupesh write [OBSERVED], 22 Mar Q63 Roads have been dug->have dug up roads again [OBSERVED], Q65 Parents will send->He will be sent [OBSERVED], 25 Sep Q57 Rover would not swallow->would not be swallowed [OBSERVED], Q58 Does Sneha not lick->Is butter not licked [OBSERVED], Q59 Magazine was expecting->were being expected [OBSERVED], 26 Sep Q62 They are playing->is being played [OBSERVED], Q64 Issue has been resolved->has successfully resolved [OBSERVED], 27 Sep Q55 Stranger had intended->had been intended [OBSERVED], Q56 Audience cheered->was loudly cheered [OBSERVED], 30 Mar Q3 Book was written->wrote [OBSERVED]
+**Gives:** Sentence active or passive
+**Asks:** Convert active passive select correct
+**Pehchaan:** IF YOU SEE Select passive voice active voice Humayun built Why was letter written Roads have been dug Parents will send Rover would not swallow Does Sneha not lick Magazine was expecting They are playing Issue has been resolved Stranger had intended Audience cheered Book was written -> THINK Tense identify object subject by agent be verb V3 being for continuous have been for perfect
+**10-Second:** Tense pakad built past simple=>was built, Object subject city was built, by agent by Humayun, Continuous was expecting=>were being expected being, Perfect have been dug=>have dug active have been dug passive, Modal would not swallow=>would not be swallowed, Why was written=>Why did write did+base, Eliminate wrong be verb is vs was vs have been
+**Trap:** Humayun built options was built correct had been built past perfect trap was being built continuous trap city named Humayun was built by Dinpanah agent swap trap, Why was letter written Why did Rupesh wrote wrote vs write trap did+base write not wrote, Roads have been dug have dug correct are being dug continuous trap, Parents will send will be sent correct would be sent modal change trap, Rover would not swallow would not be swallowed correct would not be swallowing continuous trap would not swallowed be missing trap would not be swallow base vs participle trap, Does Sneha not lick Is butter not licked present simple passive is+V3 vs Is butter being licked continuous trap Sneha does not lick active not passive trap Was not licking past continuous trap, Magazine was expecting were being expected past continuous passive were being+V3 vs will be expected future trap was expected simple past trap were expected missing being trap, They are playing is being played present continuous passive is being+V3 vs was played past trap has been played perfect trap was being played past continuous, Issue has been resolved has successfully resolved present perfect active has+V3 vs successfully resolves present simple trap successfully resolved past simple trap, Stranger had intended had been intended past perfect passive had been+V3 vs could have been intended vs was intended, Audience cheered was loudly cheered past simple passive was+V3 vs There was loud cheer different structure vs They all cheered loudly active vs Student leader was cheered object change, Book was written wrote past simple active vs had written past perfect trap writes present trap The book wrote active but object as subject trap
+**Counter:** Past simple built=>was built was+V3, have been dug=>have dug have+V3 active, will send=>will be sent will be+V3, would not swallow=>would not be swallowed would be+V3, Does not lick=>Is not licked is+V3, was expecting=>were being expected were being+V3, are playing=>is being played is being+V3, has been resolved=>has resolved has+V3, had intended=>had been intended had been+V3, cheered=>was cheered was+V3, was written=>wrote past simple active, Why was written=>Why did write did+base
+**Variations:** [PYQ-DERIVED] He is writing book->Book is being written, He has written book->Book has been written, He had written book->Book had been written, He will write book->Book will be written, He would write book->Book would be written, Does he write book?->Is book written by him?, Why was book written?->Why did he write book?
+**NOT NEEDED:** All tenses beyond those PYQs only past simple present perfect future modal would present continuous past continuous past perfect
+
+### MECHANISM 4 — SPEECH DIRECT/INDIRECT
+**Core Idea:** Direct se indirect tense backshift if reporting verb past pronoun time change.
+**Minimum Rule:** says/tells present no change You are writing=>she is writing present remains present, said/told past backshift Present continuous->past continuous am/is/are writing->was/were writing Can->could Will->would have/has->had This->that These->those Here->there Now->then Today->that day Tomorrow->next day Yesterday->previous day This week->that week Ago->before My->her, Wish I wish I didn't have to meet=>she wished she didn't have to meet didn't remains, Universal truth Man proposes God disposes remains same no backshift, Imperative Don't play->forbade to play told not to play, Question What are you doing here?->what he was doing there what+subject+verb here->there
+**Why Works:** Direct indirect rules.
+**PYQ Evidence:** 16 Nov Q64 How do you know that Rahul has told this to him?->how she knew that Rahul had told that to him [OBSERVED], Q65 I finished assignment two hours ago->had finished her assignment two hours before [OBSERVED], 22 Mar Q51 I'll be there at eight Is that all right?->would be there at eight checked if all right [OBSERVED], 25 Sep Q60 I wish I didn't have to meet step-mother->wished she didn't have to meet [OBSERVED], Q61 You are writing apology says to->tells that she is writing present no backshift [OBSERVED], 26 Sep Q56 I can fix car by tomorrow->could fix by next day [OBSERVED], 28 Sep Q67 I'm playing piano->was playing [OBSERVED], Q68 Man proposes God disposes->proposes and disposes no change universal truth [OBSERVED], Q69 Don't play->forbade to play [OBSERVED], Q70 Heavy rain this week has spoiled->that week had spoiled her travel plans [OBSERVED] this->that has->had my->her, 30 Mar Q6 What are you doing here?->what he was doing there [OBSERVED]
+**Gives:** Direct speech sentence reporting verb says/said
+**Asks:** Select correct indirect form
+**Pehchaan:** IF YOU SEE Select indirect form How do you know... I finished two hours ago I'll be there I wish didn't have to meet You are writing apology I can fix tomorrow I'm playing Man proposes God disposes Don't play Heavy rain this week has spoiled What are you doing here? -> THINK Reporting verb past? Backshift? Pronoun? Time? Universal truth no change? Imperative forbade? Question what+subject+verb?
+**10-Second:** Reporting verb says/tells present no change is writing remains, Said/told past backshift am/is/are writing->was/were writing can->could will->would have/has->had this->that here->there tomorrow->next day this week->that week ago->before my->her, Universal truth no change proposes remains, Imperative Don't->forbade to play, Question What are you doing here?->what he was doing there are doing->was doing here->there, Eliminate wrong backshift has known vs knew has told vs had told is vs was when reporting past
+**Trap:** Nakul asked how she knew had told vs has known has told no backshift trap when reporting past asked vs how she knew has told no backshift vs how she knows had told present trap, I finished two hours ago she finished my ago my not changed ago not changed trap she had finished her before correct had finished her before I not changed trap has finished present perfect trap ago trap, I'll be there will vs would trap will no backshift when reporting past said vs would correct, I wish didn't have to meet hadn't have to double have trap didn't meet have to missing trap, You are writing says to tells is writing present remains present because says present vs told is writing vs says to was writing was backshift trap when reporting present says no backshift, I can fix by tomorrow could next day correct can->could tomorrow->next day vs could tomorrow tomorrow not changed trap I not changed, I'm playing was playing correct vs played simple past trap has played perfect trap had been playing past perfect continuous trap, Man proposes God disposes proposes and disposes correct no change universal truth vs propose dispose plural verb trap proposed disposed past trap had proposed had disposed past perfect trap, Don't play forbade to play correct vs said to me don't play direct not indirect assured not to play vs refused me to not play double not, Heavy rain this week has spoiled that week had spoiled her correct this->that has->had my->her vs told me extra me trap that week has spoiled has not changed this not changed trap, What are you doing here? what he was doing there correct are doing->was doing here->there vs what was he doing there was he vs he was order trap question indirect order subject verb not verb subject vs what he is doing here is doing here no backshift no time change trap what he was doing here here not changed trap
+**Counter:** Says/tells present no backshift is remains, Said/told past backshift was could would had that there next day that week before her, Universal truth no change proposes remains, Imperative Don't->forbade to play, Question What are you doing here?->what he was doing there subject before verb here->there
+**Variations:** [PYQ-DERIVED] He said I am going->He said that he was going, She says I am going->She says that she is going no change, He said I will go tomorrow->He said that he would go next day, He said This is my book->He said that that was his book this->that my->his is->was, He said God is great universal->He said that God is great no change, He said to me Please help me->He requested me to help him
+**NOT NEEDED:** All direct indirect rules beyond those PYQs only those patterns observed
+
+### MECHANISM 5 — SPELLING
+**Core Idea:** Commonly confused double letters silent letters list yaad.
+**Minimum Rule:** List 30 words PYQs: ambiguous guous, vacuum 1c2u vac+uum, grateful 1l grate+ful not full, practice noun practise verb quarantine qua+rantine a not e concentrate elicit numerous critiqued inaccuracies inconsistencies analytically appropriately double p apparently astonishingly renewal new composer algebra unnecessary 1c2s argument misinterpret exaggerate double g ex+agger+ate enthusiastic spectacular spec+tacular gracious reliable cautious ious anxious curious bashful philosophy philo+sophy ph library libra+ry a
+**Why Works:** Spelling rules double letters.
+**Evidence:** 16 Nov Q53 ambiguous vs ambiguos [OBSERVED], Q54 vacuum vs vaccum [OBSERVED], 22 Mar Q61 Grateful [OBSERVED], 25 Sep Q62 Practice vs Quarentine incorrect [OBSERVED], Q63 Numerous Critiqued Inacuracies Inconsistencies Inacuracies incorrect [OBSERVED], Q64 Appropreately incorrect [OBSERVED], Q65 Renewel incorrect [OBSERVED], 28 Sep Q60 Exagerate incorrect [OBSERVED], Q61 Spectecular incorrect [OBSERVED], Q62 Cautios incorrect [OBSERVED], 30 Mar Q7 libary->library [OBSERVED]
+**Gives:** 4 words 1 correct 3 incorrect or 1 incorrect 3 correct
+**Asks:** Choose correctly/incorrectly spelt
+**Pehchaan:** IF YOU SEE Choose correct spelling correctly spelt incorrectly spelt ambiguous vacuum grateful practice quarantine numerous analytically renewal unnecessary enthusiastic cautious philosophy library -> THINK Double letters list -> Recall correct
+**10-Second:** ambiguous guous, vacuum 1c2u vac+uum, grateful 1l grate+ful not full, quarantine qua a not e, appropriate double p appro+priate, renewal new, exaggerate double g ex+agger+ate, spectacular spec+tacular a, cautious ious, philosophy philo+sophy ph, library libra+ry a, Eliminate wrong double letters
+**Trap:** ambiguous vs ambiguos 1g vs2?, vacuum vs vaccum 2c vs1c trap 2c, grateful vs greatfull 2l vs1l trap 2l, quarantine vs quarentine a vs e trap e, appropriately vs appropreately ri vs re trap, renewal vs renewel al vs el trap, unnecessary vs... necessary 1c2s trap, exaggerate vs exagerate 1g vs2g trap 1g, spectacular vs spectecular a vs e trap e, cautious vs cautios iou vs io trap io, philosophy vs phelosophy ph vs ph trap, library vs librery a vs e trap e
+**Counter:** vacuum 1c2u yaad, grateful 1l yaad, quarantine qua yaad, appropriate double p yaad, renewal new yaad, exaggerate double g yaad, cautious ious yaad, philosophy ph yaad, library a yaad
+**Variations:** [PYQ-DERIVED] accommodation double c double m, occurrence double c double r, committee double m double t double e, But only those PYQs high ROI others low ROI
+**NOT NEEDED:** All English spelling list beyond PYQs low ROI if time critical focus PYQ list 30 words
+
+### MECHANISM 6 — SYNONYM ANTONYM
+**Core Idea:** Moderate vocab synonym nearest meaning antonym opposite.
+**Minimum Rule:** List 40 words PYQs: invincible unbeatable vs susceptible unmanageable immeasurable, fruitful productive vs unsuccessful useless lengthy, grandeur magnificence vs liable commotion power, victory triumph vs strange trick despair, oppressive humane antonym voluntary wise prosperous, judicious sensible vs imprudent careless short-sighted, loathsome delightful antonym detestable ghastly humorous, sacred profane antonym profound perpetual pious, glorious modest antonym magnetic majestic massive, distinct vague antonym marked prescribed noticeable, animosity benevolence antonym bitterness sarcasm contamination, desperate hopeful antonym sloping bleak erratic
+**Why Works:** Vocab moderate.
+**Evidence:** 16 Nov Q51 invincible unbeatable [OBSERVED], Q52 fruitful productive [OBSERVED], 22 Mar Q66 grandeur magnificence [OBSERVED], 26 Sep Q53 victory triumph [OBSERVED], Q51 oppressive humane [OBSERVED], Q61 judicious sensible [OBSERVED], 28 Sep Q55 loathsome delightful [OBSERVED], Q57 sacred profane [OBSERVED], Q56 glorious modest [OBSERVED], 27 Sep Q65 distinct vague [OBSERVED], Q66 animosity benevolence [OBSERVED], 26 Sep Q66 desperate hopeful [OBSERVED]
+**Gives:** Word +4 options
+**Asks:** Synonym nearest meaning or antonym opposite
+**Pehchaan:** IF YOU SEE similar in meaning nearest in meaning synonym opposite in meaning antonym invincible fruitful grandeur victory oppressive judicious loathsome sacred glorious distinct animosity desperate -> THINK Moderate vocab list
+**10-Second:** invincible cannot be defeated unbeatable, fruitful productive, grandeur magnificence great beauty, victory triumph, oppressive cruel antonym humane kind, judicious sensible wise, loathsome detestable hateful antonym delightful lovely, sacred holy antonym profane unholy, glorious famous great antonym modest simple, distinct clear noticeable antonym vague unclear, animosity hatred bitterness antonym benevolence kindness, desperate hopeless antonym hopeful
+**Trap:** invincible vs susceptible vulnerable trap, fruitful vs lengthy long trap, grandeur vs power not magnificence, victory vs strange irrelevant, oppressive vs prosperous rich trap, judicious vs imprudent opposite trap, loathsome vs detestable synonym not antonym trap for antonym, sacred vs pious synonym not antonym trap, glorious vs majestic synonym not antonym trap, distinct vs noticeable synonym not antonym trap for antonym, animosity vs bitterness synonym not antonym trap, desperate vs bleak synonym trap
+**Counter:** Synonym similar meaning Antonym opposite, For antonym eliminate synonyms first, For synonym eliminate opposites
+**Variations:** [PYQ-DERIVED] Synonym benevolence kindness, Antonym benevolence animosity, But only PYQ list high ROI
+**NOT NEEDED:** Very hard vocab beyond PYQ list low ROI
+
+### MECHANISM 7 — ONE WORD SUBSTITUTION
+**Core Idea:** Group words ka one word.
+**Minimum Rule:** Apparatus submarines see above water Periscope Kaleidoscope telescope bioscope, Risking sum money future event Wager Whorl writhe warden, Small shop fashionable clothes Boutique Store tailoring couture, Does something for pleasure Hedonist Anarchist atheist aggressor, Great attention detail correct behaviour Punctilious Punctual zealous disciplined, Sudden violent change upheaval Turbulence Tranquility serenity equanimity, Place soldiers live Barracks Unit regiment brigade, Constantly sees bright side Optimist misogynist pessimist critic, Inquisitive mind constant questioning Curious Complex mature brilliant, Edible fit to be eaten Worth eating
+**Why Works:** One-word list.
+**Evidence:** 16 Nov Q59 Periscope [OBSERVED], Q60 Wager [OBSERVED], 25 Sep Q55 Barracks [OBSERVED], Q56 Hedonist [OBSERVED], 26 Sep Q54 Punctilious [OBSERVED], Q54 Turbulence [OBSERVED], Q59 Boutique [OBSERVED], 27 Sep Q68 Optimist [OBSERVED], Q69 Curious [OBSERVED], 22 Mar Q54 Edible Worth eating [OBSERVED]
+**Gives:** Group words +4 options
+**Asks:** One-word substitute
+**Pehchaan:** IF YOU SEE one-word substitute apparatus submarines risking sum money small shop fashionable clothes does something for pleasure great attention detail sudden violent change place soldiers live sees bright side inquisitive mind edible means -> THINK One-word list
+**10-Second:** Submarine see above Periscope peri around scope see, Risk money future Wager bet, Small shop fashionable Boutique, Pleasure Hedonist, Attention detail Punctilious, Violent change Turbulence, Soldiers live Barracks place, Bright side Optimist, Inquisitive Curious, Edible fit to be eaten worth eating
+**Trap:** Periscope vs telescope far vs kaleidoscope colour vs bioscope cinema, Wager vs whorl spiral writhe twist warden guard, Boutique vs store general tailoring making couture high fashion, Hedonist vs anarchist no government atheist no god aggressor attacker, Punctilious vs punctual on time zealous enthusiastic disciplined controlled, Turbulence vs tranquility serenity equanimity calm opposite trap, Barracks vs unit regiment brigade all military but barracks place, Optimist vs pessimist opposite misogynist hates women critic judges, Inquisitive vs complex mature brilliant curious correct, Edible vs edifying educative
+**Counter:** Peri around scope see periscope, Wager bet, Boutique small fashionable shop, Hedonist pleasure, Punctilious attention detail, Turbulence violent, Barracks place, Optimist bright side, Curious inquisitive, Edible fit to be eaten
+**Variations:** [PYQ-DERIVED] One who hates mankind misanthrope, One who loves mankind philanthropist, But only PYQ list high ROI
+**NOT NEEDED:** Unlimited one-word list beyond PYQs low ROI
+
+### MECHANISM 8 — IDIOMS
+**Core Idea:** Idiom meaning fixed.
+**Minimum Rule:** Once in blue moon Occasionally rarely 16 Nov Q58, Put cart before horse Doing things wrong order To do last things first 26 Sep Q52, Water under bridge Anything from past not significant anymore 26 Sep Q63, Bite dust To stop living To die 28 Sep Q58
+**Why Works:** Idiom meaning fixed.
+**Evidence:** 16 Nov Q58 Once in blue moon Occasionally [OBSERVED], 26 Sep Q52 Put cart before horse wrong order [OBSERVED], Q63 Water under bridge past not significant [OBSERVED], 28 Sep Q58 Bite dust stop living [OBSERVED]
+**Gives:** Idiom +4 options
+**Asks:** Meaning
+**Pehchaan:** IF YOU SEE once in blue moon put cart before horse water under bridge bite dust -> THINK Idiom meaning list
+**10-Second:** Once in blue moon occasionally rarely, Put cart before horse wrong order, Water under bridge past not important, Bite dust die stop living
+**Trap:** Once in blue moon trap Everyday All time Frequently vs Occasionally close trap Frequently, Put cart before horse trap To follow logical order opposite vs To lie, Water under bridge trap To be very sick literal water, Bite dust trap To behave weirdly literal bite
+**Counter:** Blue moon rare occasionally, Cart before horse wrong order, Water under bridge flows away past, Bite dust fall die
+**Variations:** [PYQ-DERIVED] Other idioms not in PYQs INSUFFICIENT EVIDENCE low ROI
+**NOT NEEDED:** Unlimited idioms beyond 4 PYQs low ROI
+
+### MECHANISM 9 — COMPREHENSION PASSAGE
+**Core Idea:** Passage 1 per paper 3-4 Qs Types Factual Inference Vocab Meaning True/False Purpose.
+**Minimum Rule:** Passages: Birds Mammals similarity 16 Nov Q68-70 Main purpose understand how birds mammals alike Skills I II III all complex social reasoning problem solving craft tools Caring feed young beak to beak; Almond trees deciduous 22 Mar Q67-70 Months Late Jan early April Five petals true self-incompatible true require insect pollinators true All above Deduction not true nuts Extensively large area; Microplastics 30 Mar Q17-20 Found air soil drinking water Why global travel long distances appear everywhere Contaminants dirty unsafe True Most microplastics pass through body but some may stay tissues; Mother Tongue additive subtractive 25 Sep Q66-69 Additive another language without harming mother tongue Current scenario parents have choice but choose dominant to mother tongue Homogenization hierarchies true Subtractive dominant undermines mother tongue; RSV 26 Sep Q68-70 NOT true? Transmission most common direct person-to-person contact temperate regions; Vivekananda 27 Sep Q61-64 Received standing ovation Challenges bureaucratic financial Event Parliament World's Religions Societies Vedanta Societies
+**Why Works:** Passage reading factual.
+**Evidence:** 16 Nov Q68-70 Birds [OBSERVED], 22 Mar Q67-70 Almond [OBSERVED], 30 Mar Q17-20 Microplastics [OBSERVED], 25 Sep Q66-69 Mother Tongue [OBSERVED], 26 Sep Q68-70 RSV [OBSERVED], 27 Sep Q61-64 Vivekananda [OBSERVED]
+**Gives:** Passage +3-4 Qs
+**Asks:** Main purpose skills characteristic months correct options deduction meaning word where found why global contaminants meaning true statement additive subtractive definition NOT true transmission regions how received challenges event societies
+**Pehchaan:** IF YOU SEE Read passage main purpose author discussed skills characteristic birds caring In which months Almond flower Which options correct What can be deduced What does word extensively mean Where have microplastics been found Why scientists say global issue contaminants means Which statements TRUE additive language learning situation subtractive Which statements NOT true RSV How RSV transmission most commonly RSV most common countries temperate How Vivekananda received challenges event attended societies established -> THINK Passage factual inference vocab
+**10-Second:** Main purpose understand alike not encourage research, Skills I II III all, Caring feed young beak to beak, Almond months Late Jan early April, Almond correct All above, Deduction not true nuts, Extensively large area, Microplastics air soil drinking water, Global travel long distances everywhere, Contaminants dirty unsafe, True most pass some stay tissues, Additive another without harming mother tongue, Current scenario have choice but choose dominant, Homogenization hierarchies, Subtractive dominant undermines mother tongue, RSV direct person-to-person temperate, Vivekananda standing ovation bureaucratic financial Parliament World's Religions Vedanta Societies
+**Trap:** Main purpose encourage research vs understand alike trap encourage, Skills Only III vs I II III trap Only III, Caring fly together vs feed young beak to beak trap fly together, Almond months Late April early January vs Late Jan early April trap March May, Almond correct only five petals vs All above trap only five petals, Deduction absorbs water vs not true nuts trap absorbs water, Extensively tiny area vs large area trap tiny area, Microplastics only oceans vs air soil drinking water trap only oceans once thought, Global easy clean up vs travel long distances trap easy clean up, Contaminants produce energy vs dirty unsafe trap produce energy, True can be avoided easily vs most pass some stay trap can be avoided easily, Additive English medium vs another without harming mother tongue trap English medium, Current scenario no choice choose between vs have choice but choose dominant trap no choice, Homogenization mother tongue always dominant vs hierarchies trap mother tongue always dominant, Subtractive Learning to subtract vs dominant undermines mother tongue trap Learning to subtract literal, RSV air vs direct person-to-person trap air, tropical vs temperate trap tropical, silence vs standing ovation trap silence, language barriers vs bureaucratic financial trap language barriers, Yoga Day vs Parliament World's Religions trap Yoga Day, Yoga vs Vedanta Societies trap Yoga Societies
+**Counter:** Purpose understand alike, Skills I II III all, Caring feed young beak to beak, Almond months Late Jan early April All above not true nuts large area, Microplastics air soil drinking water travel long distances everywhere dirty unsafe most pass some stay, Additive another without harming mother tongue have choice but choose dominant hierarchies dominant undermines mother tongue, RSV direct person-to-person temperate, Vivekananda standing ovation bureaucratic financial Parliament World's Religions Vedanta Societies
+**Variations:** [PYQ-DERIVED] Other passages not in PYQs INSUFFICIENT EVIDENCE but pattern same factual inference vocab true/false
+**NOT NEEDED:** Outside knowledge beyond passage passage itself contains answer
+
+### MECHANISM 10 — SENTENCE REARRANGEMENT JUMBLED P Q R S
+**Core Idea:** Jumbled parts P Q R S correct sequence logical chronological dictionary.
+**Minimum Rule:** Dictionary Decorate Demanding Demarcate Democracy Demystify 5 1 4 2 3 51423, Govt India Act was passed by P separate acts namely Govt India Act 1935 and Q longest act enacted by British Parliament R British Parliament August 1935 it was S at that time hence it was divided into two Govt Burma Act 1935 => RQSP, Letter MTNL I My landline phone not working week II I am resident House No X Street Y Chennai III Please set my phone right earliest IV I informed Area Manager telephonically no response => II,I,IV,III resident first problem second informed third request fourth, To find way to protect(P)/ world's nature(Q)/ countries are in Montreal(R)/ Delegates from nearly 200(S) => Delegates from nearly 200 countries are in Montreal to find way to protect world's nature S R P Q SRPQ, On Russian invasion Ukraine(P)/ In 2022 German users primarily(Q)/ searched Google(R)/ for news background information(S) => In 2022 German users primarily searched Google for news background information on Russian invasion Ukraine Q R S P QRSP, Rain started falling as dark clouds gathered over city cooling hot weather afternoon R S P Q RSPQ
+**Why Works:** Logical chronological order.
+**Evidence:** 16 Nov Q78 dictionary order [OBSERVED], 22 Mar Q57 Govt India Act RQSP [OBSERVED], Q60 Letter MTNL II,I,IV,III [OBSERVED], 27 Sep Q59 Delegates SRPQ [OBSERVED], Q60 Russian invasion QRSP [OBSERVED], 30 Mar Q10 rain RSPQ [OBSERVED]
+**Gives:** Jumbled parts P Q R S
+**Asks:** Correct sequence
+**Pehchaan:** IF YOU SEE Arrange words sequence dictionary sentence parts P Q R S correct sequence jumbled parts rearrange to make coherent letter to MTNL complaint jumbled to find way to protect world's nature countries are in Montreal Delegates On Russian invasion Ukraine In 2022 German users primarily searched Google -> THINK Logical chronological dictionary order
+**10-Second:** Dictionary Decorate Demanding Demarcate Democracy Demystify 5 1 4 2 3 51423, Govt Act Passed by British Parliament August 1935 R it was longest act Q at that time divided into two S separate acts namely P => RQSP, Letter Resident II problem I informed IV request III => II,I,IV,III, Delegates Delegates from nearly 200 S countries are in Montreal R to find way to protect P world's nature Q => SRPQ, Russian In 2022 German users primarily Q searched Google R for news background S on Russian invasion Ukraine P => QRSP, Rain falling as dark clouds R gathered over city S cooling hot P weather afternoon Q => RSPQ
+**Trap:** Dictionary 52341 vs 52314 vs 51423 vs 54123 trap 52341, Govt Act QSPR PQRS SPQR RQSP trap QSPR, Letter I,II,III,IV vs II,I,IV,III vs IV,III,II,I vs III,II,IV,I trap I,II,III,IV chronological not logical, Delegates PQRS SQRP QRPS SRPQ trap PQRS, Russian QRSP SRPQ PQRS QRPS trap SRPQ, Rain SQPR RSPQ PSRQ QRSP trap SQPR
+**Counter:** Dictionary alphabetical second letter, Govt Act R first passed by British Parliament, Letter resident first II, Delegates S first Delegates from nearly 200, Russian Q first In 2022 German users primarily, Rain R first falling as dark clouds
+**Variations:** [PYQ-DERIVED] Other jumbled sentences same logic find subject first
+**NOT NEEDED:** All rearrangement types beyond PYQs
+
+## 8. COMPLETE ENGLISH TRAP BANK — HONEST (Same as detailed above, compressed)
+| Trap | PYQ Evidence | Wrong Thinking | Fast Counter |
+|---|---|---|---|
+| Each have vs has | 30 Mar Q2 | Each plural have | Each singular has |
+| No sooner he was vs was he | 16 Nov Q56 | No inversion | No sooner was he |
+| will have participate vs participated | Q57 | Base vs participle | will have+V3 |
+| did not went vs go | 25 Sep Q70 | Past after did | did not+base go |
+| since five years vs for | 26 Sep Q60 | Since point For duration | for five years |
+| absolutely best than vs better than | 28 Sep Q52 | Best with than | better than |
+| I reaches vs reach | Q53 | I with s/es | I reach |
+| for create vs to create | Q54 | for+base | to create |
+| has being vs has been | 28 Sep Q51 | being vs been | has been |
+| girls is vs are | 27 Sep Q53 | Singular verb plural subject | are |
+| terribly performed vs performed terribly | Q54 | Adverb position | performed terribly |
+| I love the dogs vs dogs generic | 25 Sep Q51 | The generic vs specific | Generic no the |
+| will be broadcast vs will broadcast | Q52 | Passive vs active | will broadcast active |
+| analyse vs analysed | 30 Mar Q13 | Present vs past | analysed past |
+| will be finishing vs will have finished | Q15 | Continuous vs perfect by the time | will have finished |
+| deal in vs with | 16 Nov Q61 | With person vs in goods | deal in goods |
+| discussion about vs with | Q62 | With vs about | about topic |
+| frugal vs miser | 22 Mar Q62 | Miser negative | frugal positive |
+| sheep vs sheeps | Q55 | Adding s | Sheep same |
+| had baked vs baked | Q58 | Simple past vs past perfect before | had baked |
+| an hour vs a hour | 30 Mar Q9 | a vs an | an vowel sound |
+| Him is reading vs She | Q11 | Object pronoun as subject | She subject |
+| an honest vs a honest | 27 Sep Q70 | a vs an | an vowel sound |
+| through vs beyond | Q14 | Through vs beyond | beyond other side |
+| quiet vs quite | Q5 | Fairly vs silent | quiet silent |
+| Many vs Much | 26 Sep Q55 | Much uncountable | Many countable |
+| had known vs had knew | Q57 | had knew vs had known | had known known participle |
+| Voice built was built vs had been built | 16 Nov Q66 | Past perfect continuous agent swap | was built |
+| Why was written did wrote vs write | Q67 | did+wrote vs did+base | did+base write |
+| have been dug have dug vs are being | 22 Mar Q63 | Continuous vs perfect | have dug |
+| will send will be sent vs would | Q65 | would vs will | will be sent |
+| would not swallow would not be swallowed vs swallowing | 25 Sep Q57 | Continuous vs passive | would be+V3 |
+| Does not lick Is being vs Is not licked | Q58 | Continuous vs simple | is+V3 not licked |
+| was expecting were being expected vs were expected | Q59 | Missing being | were being+V3 |
+| are playing is being played vs was played | 26 Sep Q62 | Past vs present continuous | is being+V3 |
+| has been resolved has resolved vs resolves | Q64 | Present simple vs perfect | has+V3 |
+| had intended had been intended vs was intended | 27 Sep Q55 | Simple past vs past perfect passive | had been+V3 |
+| cheered was cheered vs There was loud cheer | Q56 | Different structure | was+V3 |
+| was written wrote vs had written | 30 Mar Q3 | Past perfect vs past simple | wrote |
+| Direct indirect backshift has known vs knew | 16 Nov Q64 | No backshift | knew had told that |
+| I finished ago vs before | Q65 | my vs her ago vs before | had finished her before |
+| I'll be there will vs would | 22 Mar Q51 | No backshift will | would |
+| I wish hadn't have to vs didn't have to | 25 Sep Q60 | Double have | didn't have to |
+| You are writing says to is vs was | Q61 | Was backshift when says present no backshift | is remains |
+| I can fix tomorrow could next day vs could tomorrow | 26 Sep Q56 | Tomorrow not changed | could next day |
+| I'm playing was playing vs played | 28 Sep Q67 | Simple past vs continuous | was playing |
+| Man proposes God disposes no change | Q68 | Plural verb past | proposes remains |
+| Don't play forbade vs said don't play | Q69 | Direct vs indirect | forbade to play |
+| This week has spoiled that week had spoiled | Q70 | has not changed this not changed | that week had spoiled her |
+| What are you doing here what he was doing there vs was he | 30 Mar Q6 | was he vs he was order here vs there | what he was doing there |
+| Spelling double letters | 16 Nov Q53-54 22 Mar Q61 25 Sep Q62-65 28 Sep Q60-62 30 Mar Q7 | Double letters wrong | List yaad |
+| Synonym vs antonym confusion | 16 Nov Q51-52 22 Mar Q66 26 Sep Q51 Q53 Q61 27 Sep Q65 Q66 28 Sep Q55-57 | Synonym vs antonym | Eliminate synonyms for antonym |
+| One Word periscope vs telescope | 16 Nov Q59 Q60 25 Sep Q55-56 26 Sep Q54 Q59 27 Sep Q68-69 | Telescope far vs periscope around | Peri around scope |
+| Idioms literal vs meaning | 16 Nov Q58 26 Sep Q52 Q63 28 Sep Q58 | Literal | Blue moon rare wrong order past not important die |
+| Comprehension main purpose encourage vs understand alike | 16 Nov Q68 | encourage research | understand alike |
+| Skills Only III vs I II III | Q69 | Only III | I II III all |
+| Caring fly together vs feed young beak to beak | Q70 | fly together | feed young beak to beak |
+| Almond months March May vs Late Jan early April | 22 Mar Q67 | March May | Late Jan early April |
+| Almond correct only five petals vs All above | Q68 | only five petals | All above |
+| Deduction absorbs water vs not true nuts | Q69 | absorbs water | not true nuts |
+| Extensively tiny area vs large area | Q70 | tiny area | large area |
+| Microplastics only oceans vs air soil drinking water | 30 Mar Q17 | only oceans | air soil drinking water |
+| Global easy clean up vs travel long distances | Q18 | easy clean up | travel long distances |
+| Contaminants produce energy vs dirty unsafe | Q19 | produce energy | dirty unsafe |
+| True can be avoided easily vs most pass some stay | Q20 | can be avoided easily | most pass some stay |
+| Additive English medium vs another without harming mother tongue | 25 Sep Q66 | English medium | another without harming |
+| Current scenario no choice vs have choice but choose dominant | Q67 | no choice | have choice but choose dominant |
+| Homogenization mother tongue always dominant vs hierarchies | Q68 | mother tongue always dominant | hierarchies |
+| Subtractive Learning to subtract vs dominant undermines | Q69 | Learning to subtract literal | dominant undermines |
+| RSV air vs direct person-to-person | 26 Sep Q69 | air also but most common direct | direct person-to-person |
+| RSV tropical vs temperate | Q70 | tropical | temperate |
+| Vivekananda silence vs standing ovation | 27 Sep Q61 | silence | standing ovation |
+| Challenges language barriers vs bureaucratic financial | Q62 | language barriers | bureaucratic financial |
+| Event Yoga Day vs Parliament World's Religions | Q63 | Yoga Day | Parliament World's Religions |
+| Societies Yoga vs Vedanta | Q64 | Yoga Societies | Vedanta Societies |
+| Dictionary 52341 vs51423 | 16 Nov Q78 | 52341 | 51423 Decorate Demanding Demarcate Democracy Demystify |
+| Govt Act QSPR vs RQSP | 22 Mar Q57 | QSPR | RQSP |
+| Letter I,II,III,IV vs II,I,IV,III | Q60 | I,II,III,IV | II,I,IV,III resident problem informed request |
+| Delegates PQRS vs SRPQ | 27 Sep Q59 | PQRS | SRPQ |
+| Russian QRSP vs SRPQ | Q60 | SRPQ | QRSP |
+| Rain SQPR vs RSPQ | 30 Mar Q10 | SQPR | RSPQ |
+
+## 9. COMPLETE QUESTION-DEKHTE-HI-PEHCHAAN SHEET — ENGLISH
+SEE THIS → THINK THIS → DO THIS (Ultra-compressed 109 rules already listed in mechanism notes)
+
+## 10. COMPLETE 10-SECOND ENGLISH SHEET — ONLY RELIABLE
+1. Each/Every has, No sooner was he, will have+V3 participated, did not+base go, since duration->for, absolutely best than->better than, I reach, for create->to create, has been, girls are, performed terribly, I love dogs no the, will broadcast active, analysed past, will have finished by the time
+2. deal in goods deal with person discussion about topic frugal positive sheep same before past perfect had baked an hour an honest vowel sound She subject beyond other side quiet silent Many countable had known
+3. Past simple built->was built Why was written->Why did write did+base have been dug->have dug will send->will be sent would not swallow->would not be swallowed Does not lick->Is not licked was expecting->were being expected are playing->is being played has been resolved->has resolved had intended->had been intended cheered->was cheered was written->wrote
+4. Says present no backshift is remains Said past backshift was could would had that there next day that week before her universal truth Man proposes God disposes no change imperative Don't->forbade to play question What are you doing here?->what he was doing there subject before verb
+5. Spelling list 30 PYQ words double letters vacuum1c2u grateful1l quarantine qua appropriate double p renewal new exaggerate double g spectacular a cautious ious philosophy ph library a
+6. Synonym Antonym 40 PYQ words invincible unbeatable fruitful productive grandeur magnificence victory triumph oppressive antonym humane judicious sensible loathsome antonym delightful sacred antonym profane glorious antonym modest distinct antonym vague animosity antonym benevolence desperate antonym hopeful eliminate synonyms for antonym
+7. One Word 20 PYQ Periscope around see submarine Wager bet Boutique small fashionable shop Hedonist pleasure Punctilious attention detail Turbulence violent change Barracks soldiers live place Optimist bright side Curious inquisitive Edible fit to be eaten
+8. Idioms 4 PYQ Once in blue moon occasionally rarely Blue moon rare Put cart before horse wrong order Water under bridge past not significant flows away Bite dust die fall
+9. Comprehension 6 passages Birds main purpose understand alike Skills I II III all Caring feed young beak to beak Almond months Late Jan early April All above not true nuts large area Microplastics air soil drinking water travel long distances everywhere dirty unsafe most pass some stay Additive another without harming mother tongue have choice but choose dominant hierarchies dominant undermines mother tongue RSV direct person-to-person temperate Vivekananda standing ovation bureaucratic financial Parliament World's Religions Vedanta Societies
+10. Rearrangement Dictionary 51423 Decorate Demanding Demarcate Democracy Demystify Govt Act RQSP Letter MTNL II,I,IV,III Delegates SRPQ Russian QRSP Rain RSPQ
+[NO RELIABLE 10-SECOND] for Very hard vocab beyond PYQ list rare one-word beyond PYQ list complex comprehension inference requiring outside knowledge
+
+## 11. FORMULA / RULE SHEET — ENGLISH (Same as mechanism notes with WHEN SIGNAL TRAP FAST)
+
+## 12. MUST KNOW / SHOULD KNOW / LOW ROI / SKIP — HONEST FOR 90+
+### MUST KNOW (6-7/7 papers >=5 clusters one-step high marks/time) — 90+ ke liye 90% accuracy chahiye
+- Grammar Error Detection: Each has, No sooner was he, will have participated, did not go, since->for, absolutely best than->better than, I reach, for create->to create, has been, girls are, performed terribly, I love dogs generic, will broadcast active, analysed tense consistency, will have finished by the time
+- Preposition Determiner Article Fill Blank: deal in goods deal with person, discussion about topic with person, frugal positive careful budget, sheep plural sheep, had baked before past, an hour an honest vowel sound, She subject pronoun, beyond other side, quiet silent, Many countable, had known third conditional
+- Voice: Past simple built->was built, Why was written->Why did write did+base, have been dug->have dug, will send->will be sent, would not swallow->would not be swallowed, Does not lick->Is not licked, was expecting->were being expected, are playing->is being played, has been resolved->has resolved, had intended->had been intended, cheered->was cheered, was written->wrote
+- Speech: Says/tells present no backshift is remains, Said/told past backshift was could would had that there next day that week before her, universal truth Man proposes God disposes no change, imperative Don't->forbade to play, question What are you doing here?->what he was doing there subject before verb
+- Spelling: List 30 words from PYQs: ambiguous vacuum grateful practice quarantine concentrate elicit numerous critiqued inaccuracies inconsistencies analytically appropriately apparently astonishingly renewal horizon composer algebra unnecessary argument misinterpret exaggerate enthusiastic spectacular gracious reliable cautious anxious curious bashful philosophy library
+- Comprehension: 1 passage per paper 3-4Q factual inference vocab true/false – Main purpose understand alike, Skills I II III all, Caring feed young beak to beak, Almond months Late Jan early April All above not true nuts large area, Microplastics air soil drinking water travel long distances everywhere dirty unsafe most pass some stay, Additive another without harming mother tongue have choice but choose dominant hierarchies dominant undermines mother tongue, RSV direct person-to-person temperate, Vivekananda standing ovation bureaucratic financial Parliament World's Religions Vedanta Societies
+
+### SHOULD KNOW (5-6/7 papers 1-2Q useful variations) — 90+ ke liye 80% accuracy target
+- Synonym/Antonym moderate vocab list 40 words: invincible unbeatable fruitful productive grandeur magnificence victory triumph oppressive antonym humane judicious sensible loathsome antonym delightful sacred antonym profane glorious antonym modest distinct antonym vague animosity antonym benevolence desperate antonym hopeful
+- One Word Substitution list 20 words: Periscope Wager Boutique Hedonist Punctilious Turbulence Barracks Optimist Curious Inquisitive Edible Worth eating
+- Sentence Rearrangement P Q R S: Dictionary 51423 Decorate Demanding Demarcate Democracy Demystify, Govt Act RQSP, Letter MTNL II,I,IV,III, Delegates SRPQ, Russian QRSP, Rain RSPQ
+
+### LOW ROI (4/7 papers 1Q) — 90+ ke liye agar time bache to
+- Idioms 4 idioms: Once in blue moon occasionally, Put cart before horse wrong order, Water under bridge past not significant, Bite dust die – 4 clusters 4 papers – easy but low frequency – B
+- Very hard vocab beyond PYQ list – [INSUFFICIENT EVIDENCE] – C
+- Rare one-word beyond PYQ list – C
+
+### SKIP IF TIME-CRITICAL (Not supported / no false claims) — Honest skip
+- Generic grammar textbook beyond PYQ error patterns (detailed subjunctive inversion beyond No sooner, all phrasal verbs beyond fill in for, all comparative rules beyond absolutely best) – not in PYQs – SKIP – [INSUFFICIENT EVIDENCE] for importance
+- Unlimited vocab beyond 40 PYQ words – SKIP – focus PYQ list for 90+ percentile
+- Complex comprehension inference requiring outside knowledge beyond passage – SKIP – attempt factual first
+- Unlimited idioms beyond 4 PYQs – SKIP – low ROI
+
+## 13. FINAL ONE-PAGE ENGLISH PAPER-FIGHT SHEET — 90+ PERCENTILE REVISION (HONEST)
+Ultra-compressed revision – Only recognition + core + rules + traps – No false guarantee
+
+- Each has No sooner was he will have participated did not go since->for absolutely best than->better than I reach for create->to create has been girls are performed terribly I love dogs generic will broadcast active analysed tense consistency will have finished by the time
+- deal in goods deal with person discussion about topic frugal positive budget sheep plural sheep had baked before past an hour an honest vowel sound She subject pronoun beyond other side quiet silent Many countable had known third conditional
+- Past simple built->was built Why was written->Why did write did+base have been dug->have dug will send->will be sent would not swallow->would not be swallowed Does not lick->Is not licked was expecting->were being expected are playing->is being played has been resolved->has resolved had intended->had been intended cheered->was cheered was written->wrote
+- Says present no backshift is remains Said past backshift was could would had that there next day that week before her universal truth Man proposes God disposes no change imperative Don't->forbade to play question What are you doing here?->what he was doing there subject before verb
+- Spelling list 30 PYQ words: ambiguous vacuum grateful practice quarantine concentrate elicit numerous critiqued inaccuracies inconsistencies analytically appropriately apparently astonishingly renewal horizon composer algebra unnecessary argument misinterpret exaggerate enthusiastic spectacular gracious reliable cautious anxious curious bashful philosophy library – double letters: vacuum1c2u grateful1l quarantine qua appropriate double p renewal new exaggerate double g spectacular a cautious ious philosophy ph library a
+- Synonym Antonym 40 PYQ words: invincible unbeatable fruitful productive grandeur magnificence victory triumph oppressive antonym humane judicious sensible loathsome antonym delightful sacred antonym profane glorious antonym modest distinct antonym vague animosity antonym benevolence desperate antonym hopeful – eliminate synonyms for antonym opposites for synonym
+- One Word 20 PYQ: Periscope around see submarine Wager bet Boutique small fashionable shop Hedonist pleasure Punctilious attention detail Turbulence violent change Barracks soldiers live place Optimist bright side Curious inquisitive Edible fit to be eaten
+- Idioms 4 PYQ: Once in blue moon occasionally rarely Blue moon rare, Put cart before horse wrong order, Water under bridge past not significant flows away, Bite dust die fall
+- Comprehension 6 passages: Birds main purpose understand alike Skills I II III all Caring feed young beak to beak, Almond months Late Jan early April All above not true nuts large area, Microplastics air soil drinking water travel long distances everywhere dirty unsafe most pass some stay, Additive another without harming mother tongue have choice but choose dominant hierarchies dominant undermines mother tongue, RSV direct person-to-person temperate, Vivekananda standing ovation bureaucratic financial Parliament World's Religions Vedanta Societies
+- Rearrangement: Dictionary 51423 Decorate Demanding Demarcate Democracy Demystify 5 1 4 2 3, Govt Act RQSP passed by British Parliament August 1935 longest act divided separate acts, Letter MTNL II,I,IV,III resident problem informed request, Delegates SRPQ S Delegates from nearly 200 R countries are in Montreal P to find way Q world's nature, Russian QRSP Q In 2022 German users primarily R searched Google S for news background P on Russian invasion, Rain RSPQ R falling as dark clouds S gathered over city P cooling hot Q weather afternoon
+
+**90+ Percentile Honest Strategy:**
+- Tier S 90% accuracy = 20Q *0.9=18 correct (English 20Q per paper)
+- Tier A 80% accuracy = 7Q *0.8=5-6 correct (Synonym One Word Rearrangement)
+- Total English 27Q? Actually 20-27 per paper attempt 23-24 correct
+- No guarantee future paper same but PYQ evidence highest ROI
+- Practice: Solve 30 Mar 2026 Official English 20Q +22 Mar 2025 27Q +25 Sep Mother Tongue passage timed error log traps
+- Time: English first 15 min fastest 10-20 sec per Q
+
+**No false big claims:** Ye notes guarantee nahi dete 95% English aayega. Ye dete hain highest evidence-based ROI jo PYQs me dikha hai. 90+ percentile ke liye Tier S ko 90%+ accuracy + Tier A 80%+ + mock practice + trap counter + time management chahiye. Agar koi topic me [INSUFFICIENT EVIDENCE] likha hai to main jhutha pattern nahi banaya.
+
+---
+Report generated from 7 papers ~147 English Qs audited line-by-line. All conclusions separated into [OBSERVED] [STRONG INFERENCE] [WEAK INFERENCE] [PREDICTION] [INSUFFICIENT EVIDENCE] as per source integrity. No external knowledge beyond PYQ evidence + minimum background. No false guarantee. Honest ROI for 90+ percentile target.
